@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java & Web Development.**
 
-- ⚡ You'll often find me **immersed in the world of gaming, as it has been a lifelong passion of mine.**
+- ⚡ You'll often find me **immersed in the world of gaming, as it <br> has been a lifelong passion of mine.**
 
 - 📫You can Reach me at **bhrdwaj.keshav@outlook.com**
 

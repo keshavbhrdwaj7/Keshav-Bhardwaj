@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://github.com/keshavbhrdwaj7/keshavbhrdwaj7/blob/main/0DvIY8fAjBSg.gif?raw=true)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Keshav Bhardwaj</h1>
 <h3 align="center">BTech Computer Science student specializing in DevOps at UPES.</h3>

@@ -6,11 +6,6 @@
 &nbsp 
 <img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavbhrdwaj7&label=Profile%20views&color=0e75b6&style=flat" alt="keshavbhrdwaj7" /> </p>
-
-- 🌱 I’m currently learning **Java & Web Development.**
-
-- ⚡ **
-
 - 📫You can Reach me at **keshavbhrdwaj7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

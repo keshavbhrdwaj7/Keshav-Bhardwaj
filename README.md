@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Java & Web Development.**
 
-- ⚡ You'll often find me **immersed in the world of gaming, as it <br> has been a lifelong passion of mine.**
+- ⚡ **
 
-- 📫You can Reach me at **bhrdwaj.keshav@outlook.com**
+- 📫You can Reach me at **keshavbhrdwaj7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
